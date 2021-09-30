@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+greeeting = "Hellp Gaurav"
+anotther = "Helllo Pandey"
+
+print(greeeting)
+print(anotther)
+print()
+
+quantity = 5
+price = 5.5
+
+print()
+print(help("modules"))
